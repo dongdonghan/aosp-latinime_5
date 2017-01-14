@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_settings.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_settings.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rowkeys_dvorak3.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rowkeys_dvorak3.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_swiss.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_swiss.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_dvorak_123.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_dvorak_123.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_qwerty.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_qwerty.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rowkeys_pcqwerty1.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rowkeys_pcqwerty1.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_greek.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_greek.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_marathi.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_marathi.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty4_right3.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_pcqwerty4_right3.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_sinhala.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_sinhala.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_phone_symbols.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nepali_traditional.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_nepali_traditional.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_space_7kw.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_space_7kw.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nordic.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_nordic.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_comma.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_comma.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_symbols.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_symbols.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_spanish.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_spanish.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hindi.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_hindi.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_south_slavic.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_south_slavic.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_telugu.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_telugu.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_styles_enter.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_styles_enter.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_number.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/kbd_number.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bulgarian_bds.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_bulgarian_bds.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_georgian.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_georgian.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_khmer.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_khmer.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_colemak.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_colemak.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_malayalam.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_malayalam.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_pcqwerty.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_pcqwerty.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_arabic3_left.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_arabic3_left.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_thai.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_thai.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_space_symbols.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_space_symbols.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hebrew.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_hebrew.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty2_right3.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_pcqwerty2_right3.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_east_slavic.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_east_slavic.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_armenian_phonetic.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_armenian_phonetic.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_number_normal.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_number_normal.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_lao.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_lao.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bulgarian.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_bulgarian.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/row_qwerty4.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/row_qwerty4.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_arabic.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_arabic.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_azerty.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_azerty.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_mongolian.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_mongolian.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_period.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_period.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_symbols_shift.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_symbols_shift.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_farsi.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_farsi.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_phone.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_phone.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_kannada.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_kannada.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_exclamation_question.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_exclamation_question.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hindi_compact.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_hindi_compact.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_styles_common.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/key_styles_common.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_myanmar.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_myanmar.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_tamil.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_tamil.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nepali_romanized.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_nepali_romanized.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_farsi3_right.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_farsi3_right.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_number_password.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_number_password.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/row_pcqwerty5.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/row_pcqwerty5.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_dvorak.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_dvorak.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_phone.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/kbd_phone.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bengali.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_bengali.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty3_right2.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/keys_pcqwerty3_right2.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_more_keys_keyboard_template.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/kbd_more_keys_keyboard_template.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_qwertz.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp/rows_qwertz.xml"
+    }
+]

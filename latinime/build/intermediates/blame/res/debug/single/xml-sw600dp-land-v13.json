@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_phone.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp-land/kbd_phone.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_phone_symbols.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp-land/kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_number.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp-land/kbd_number.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_more_keys_keyboard_template.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-sw600dp-land/kbd_more_keys_keyboard_template.xml"
+    }
+]

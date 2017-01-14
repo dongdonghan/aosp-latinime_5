@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aosp-latinime_m-preview.iml" filepath="$PROJECT_DIR$/aosp-latinime_m-preview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latinime/latinime.iml" filepath="$PROJECT_DIR$/latinime/latinime.iml" />
+    </modules>
+  </component>
+</project>

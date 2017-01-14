@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/color/setup_step_action_color.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/color/setup_step_action_color.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/color/setup_step_action_background.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/color/setup_step_action_background.xml"
+    }
+]

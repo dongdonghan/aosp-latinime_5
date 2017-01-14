@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-land/kbd_number.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-land/kbd_number.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-land/kbd_phone.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-land/kbd_phone.xml"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/xml-land/kbd_phone_symbols.xml",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/xml-land/kbd_phone_symbols.xml"
+    }
+]
