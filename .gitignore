@@ -63,3 +63,7 @@ xcuserdata
 # Other files
 .gradle/
 /captures/
+
+.idea/workspace.xml
+
+.idea/misc.xml
