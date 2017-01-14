@@ -592,12 +592,12 @@
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_lxx_light.9.png"
     },
     {
-        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_key_feedback_left_background_ics.9.png",
-        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-hdpi/keyboard_key_feedback_left_background_ics.9.png"
-    },
-    {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-hdpi/btn_keyboard_key_normal_holo_dark.9.png",
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-hdpi/btn_keyboard_key_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-hdpi/keyboard_key_feedback_left_background_ics.9.png",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-hdpi/keyboard_key_feedback_left_background_ics.9.png"
     },
     {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-hdpi/sym_keyboard_shift_holo_dark.png",

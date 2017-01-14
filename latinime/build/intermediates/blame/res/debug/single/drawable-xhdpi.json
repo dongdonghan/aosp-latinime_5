@@ -116,12 +116,12 @@
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/btn_keyboard_key_active_lxx_dark.9.png"
     },
     {
-        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_next_lxx_light.png",
-        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/sym_keyboard_next_lxx_light.png"
-    },
-    {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_voice_lxx_dark.png",
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/sym_keyboard_voice_lxx_dark.png"
+    },
+    {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_next_lxx_light.png",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/sym_keyboard_next_lxx_light.png"
     },
     {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_settings_holo_dark.png",
@@ -188,16 +188,16 @@
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/ic_emoji_symbols_activated_lxx_dark.png"
     },
     {
+        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/ic_emoji_symbols_normal_lxx_light.png",
+        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/ic_emoji_symbols_normal_lxx_light.png"
+    },
+    {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/ic_emoji_emoticons_activated_lxx_light.png",
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/ic_emoji_emoticons_activated_lxx_light.png"
     },
     {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/btn_keyboard_key_pressed_on_lxx_light.9.png",
         "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/btn_keyboard_key_pressed_on_lxx_light.9.png"
-    },
-    {
-        "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/ic_emoji_symbols_normal_lxx_light.png",
-        "source": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/src/main/res/drawable-xhdpi/ic_emoji_symbols_normal_lxx_light.png"
     },
     {
         "merged": "/Volumes/SSD/dong/workspace/aosp-latinime_m-preview/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/btn_keyboard_key_popup_selected_lxx_light.9.png",

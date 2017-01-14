@@ -10,9 +10,605 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55b8feaf-e610-4198-a346-295f1b661391" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_1_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_instrumentation_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/AccessibilityLongPressTimer$LongPressTimerCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/AccessibilityLongPressTimer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/AccessibilityUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/KeyCodeDescriptionMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/KeyboardAccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/KeyboardAccessibilityNodeProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/MainKeyboardAccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/accessibility/MoreKeysKeyboardAccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/annotations/ExternallyReferenced.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/annotations/UsedForTesting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/ActivityManagerCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/AppWorkaroundsHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/AppWorkaroundsUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/BuildCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils$ClassWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils$ToBooleanMethodWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils$ToFloatMethodWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils$ToIntMethodWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils$ToObjectMethodWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/ConnectivityManagerCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CursorAnchorInfoCompatWrapper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CursorAnchorInfoCompatWrapper$FakeHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/CursorAnchorInfoCompatWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/DownloadManagerCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/EditorInfoCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/InputConnectionCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/InputMethodManagerCompatWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/InputMethodServiceCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/InputMethodSubtypeCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/IntentCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/LocaleSpanCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/LooperCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/NotificationCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/SettingsSecureCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/SuggestionSpanUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/SuggestionsInfoCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/TextInfoCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/TextViewCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/UserDictionaryCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/compat/ViewCompatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$DisableAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$EnableAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$FinishDeleteAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$ForgetAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$InstallAfterDownloadAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$MakeAvailableAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$MarkPreInstalledAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$StartDeleteAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$StartDownloadAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch$UpdateDataAction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ActionBatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/AssetFileAddress.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/BadFormatException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ButtonSwitcher$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ButtonSwitcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/CommonPreferences.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/CompletedDownloadInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryDownloadProgressBar$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryDownloadProgressBar$UpdaterThread$UpdateHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryDownloadProgressBar$UpdaterThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryDownloadProgressBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryListInterfaceState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryListInterfaceState$State.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryListInterfaceState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryPackConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryProvider$ResourcePathCursor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryProvider$WordListInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionaryService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DictionarySettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DownloadManagerWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DownloadOverMeteredDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/DownloadRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/EventHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/LocaleUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/LogProblemReporter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/MD5Calculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/MetadataDbHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/MetadataHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/MetadataParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/MetadataUriGetter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/PrivateLog$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/PrivateLog$DebugHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/PrivateLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/ProblemReporter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/UpdateHandler$UpdateEventListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/UpdateHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/WordListMetadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/WordListPreference$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/WordListPreference$OnActionButtonClick.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/WordListPreference$OnWordListPreferenceClick.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/dictionarypack/WordListPreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/Combiner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/CombinerChain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/DeadKeyCombiner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/Event.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/EventDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/HardwareEventDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/HardwareKeyboardEventDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/InputTransaction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/event/MyanmarReordering.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/Key$KeyBackgroundState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/Key$OptionalAttributes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/Key$Spacer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/Key.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/Keyboard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardActionListener$Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardActionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardLayoutSet$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardLayoutSet$ElementParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardLayoutSet$KeyboardLayoutSetException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardLayoutSet$Params.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardLayoutSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardSwitcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardTheme.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/KeyboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MainKeyboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysKeyboard$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysKeyboard$MoreKeyDivider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysKeyboard$MoreKeysKeyboardParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysKeyboard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysKeyboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysPanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysPanel$Controller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/MoreKeysPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/PointerTracker$DrawingProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/PointerTracker$PointerTrackerParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/PointerTracker$TimerProxy$Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/PointerTracker$TimerProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/PointerTracker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/ProximityInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$LayoutInvalidator$HandlerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$LayoutInvalidator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator$Listener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecorator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecoratorUi$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecoratorUi$AddToDictionaryIndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecoratorUi$IndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecoratorUi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/TextDecoratorUiOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/DynamicGridKeyboard$GridKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/DynamicGridKeyboard.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiCategory$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiCategory$CategoryProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiCategory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiCategoryPageIndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiLayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPageKeyboardView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPageKeyboardView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPageKeyboardView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPageKeyboardView$OnKeyEventListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPageKeyboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPalettesAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPalettesView$DeleteKeyOnTouchListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPalettesView$DeleteKeyOnTouchListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/emoji/EmojiPalettesView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/AbstractDrawingPreview.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/AlphabetShiftState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/BatchInputArbiter$BatchInputArbiterListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/BatchInputArbiter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/BogusMoveEventDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/CodesArrayParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/DrawingHandler$Callbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/DrawingHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/DrawingPreviewPlacerView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureEnabler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureFloatingTextDrawingPreview$GesturePreviewTextParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureFloatingTextDrawingPreview.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureStrokeDrawingParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureStrokeDrawingPoints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureStrokeRecognitionParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureStrokeRecognitionPoints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureTrailDrawingParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureTrailDrawingPoints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/GestureTrailsDrawingPreview.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/HermiteInterpolator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyDrawParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewChoreographer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewChoreographer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewChoreographer$KeyPreviewAnimators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewChoreographer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewDrawParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyPreviewView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeySpecParser$KeySpecParserError.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeySpecParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyStylesSet$DeclaredKeyStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyStylesSet$EmptyKeyStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyStylesSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyVisualAttributes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardCodesSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardIconsSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardParams$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardRow$RowAttributes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardRow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardState$SavedKeyboardState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardState$SwitchActions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardTextsSet$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardTextsSet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeyboardTextsTable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/KeysCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/LanguageOnSpacebarHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/MatrixUtils$MatrixOperationFailedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/MatrixUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/ModifierKeyState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/MoreKeySpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/NonDistinctMultitouchHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/PointerTrackerQueue$Element.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/PointerTrackerQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/RoundedLine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/ShiftKeyState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/SlidingKeyInputDrawingPreview.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/SmoothingUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/TimerHandler$Callbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/TimerHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/TouchPositionCorrection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/keyboard/internal/TypingTimeRecorder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/AssetFileAddress.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/AudioAndHapticFeedbackManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BackupAgent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionary$GetNextWordPropertyResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionaryFileDumper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionaryGetter$DictPackSettings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionaryGetter$FileAndMatchLevel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BinaryDictionaryGetter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants$Color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants$ImeOption.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants$Subtype$ExtraValue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants$Subtype.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants$TextUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ContactsBinaryDictionary$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ContactsBinaryDictionary$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ContactsBinaryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DicTraverseSession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Dictionary$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Dictionary$PhonyDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Dictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryDumpBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryFacilitator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryFacilitator$Dictionaries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryFacilitator$DictionaryInitializationListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryFacilitator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/DictionaryPackInstallBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary$AddMultipleDictionaryEntriesCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ExpandableBinaryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ImportantNoticeDialog$ImportantNoticeDialogListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ImportantNoticeDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputAttributes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputPointers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputView$KeyboardTopPaddingForwarder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputView$MoreSuggestionsViewCanceler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputView$MotionEventForwarder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/InputView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LastComposedWord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$SubtypeState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME$UIHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/LatinIME.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/PrevWordsInfo$WordInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/PrevWordsInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/PunctuationSuggestions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$fraction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$integer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R$xml.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/ReadOnlyBinaryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/RichInputConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/RichInputMethodManager$InputMethodInfoCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/RichInputMethodManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SpecialKeyDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SubtypeSwitcher$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SubtypeSwitcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Suggest$OnGetSuggestedWordsCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/Suggest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SuggestedWords$SuggestedWordInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SuggestedWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SuggestionSpanPickedNotificationReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/SystemBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/UserBinaryDictionary$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/UserBinaryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/WordComposer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/WordListInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/about/AboutPreferences.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/debug/ExternalDictionaryGetterForDebug.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/define/DebugFlags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/define/JniLibName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/define/ProductionFlags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogic$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogic$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogic$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogicHandler$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogicHandler$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/InputLogicHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/inputlogic/SpaceState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/DictionaryHeader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/FormatSpec$DictionaryOptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/FormatSpec$FormatOptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/FormatSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/ProbabilityInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/UnsupportedFormatException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/WeightedString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/makedict/WordProperty.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/AccountUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/ContextualDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/ContextualDictionaryUpdater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/DecayingExpandableBinaryDictionaryBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/DictionaryDecayBroadcastReciever.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/PersonalizationDataChunk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/PersonalizationDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/PersonalizationDictionaryUpdater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/PersonalizationHelper$DictFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/PersonalizationHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/personalization/UserHistoryDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/AdditionalFeaturesSettingUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/AdvancedSettingsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/AdvancedSettingsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/AdvancedSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/AppearanceSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CorrectionSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$KeyboardLayoutSetAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$KeyboardLayoutSetItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypeDialogProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypeLocaleAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypeLocaleItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypePreference$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypePreference$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment$SubtypePreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/CustomInputStyleSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettingsFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettingsFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettingsFragment$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettingsFragment$DictDumpPreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/DebugSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/GestureSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/MultiLingualSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/NativeSuggestOptions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/PreferencesSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/RadioButtonPreference$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/RadioButtonPreference$OnRadioButtonClickedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/RadioButtonPreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SeekBarDialogPreference$ValueProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SeekBarDialogPreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/Settings$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/Settings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SettingsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SettingsValues.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SettingsValuesForSuggestion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SpacingAndPunctuations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SubScreenFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/SubScreenFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/ThemeSettingsFragment$KeyboardThemePreference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/ThemeSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/settings/TwoStatePreferenceHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/LauncherIconVisibilityManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupStartIndicatorView$IndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupStartIndicatorView$LabelView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupStartIndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupStepIndicatorView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$SettingsPoolingHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$SetupStep.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity$SetupStepGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/setup/SetupWizardActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidSpellCheckerService$DictionaryFacilitatorLruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidSpellCheckerService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidSpellCheckerSession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidSpellCheckerSessionFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidWordLevelSpellCheckerSession$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidWordLevelSpellCheckerSession$Result.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidWordLevelSpellCheckerSession$SuggestionsCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidWordLevelSpellCheckerSession$SuggestionsParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/AndroidWordLevelSpellCheckerSession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter$EmptySentenceSuggestionsInfosInitializationHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter$SentenceTextInfoParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter$SentenceWordItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter$WordIterator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter$WordIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SentenceLevelAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SpellCheckerSettingsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/spellcheck/SpellCheckerSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestions$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestions$Divider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestions$MoreSuggestionKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestions$MoreSuggestionsParam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestionsView$MoreSuggestionsListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/MoreSuggestionsView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripLayoutHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView$Listener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView$StripVisibilityGroup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/suggestions/SuggestionStripViewAccessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryAddWordContents$LocaleRenderer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryAddWordContents.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryAddWordFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryLocalePicker$LocationChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionaryLocalePicker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionarySettings$MyAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionarySettings$MyAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionarySettings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/userdictionary/UserDictionarySettingsUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/AdditionalSubtypeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ApplicationUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/AsyncResultHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/AutoCorrectionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/BinaryDictionaryUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CapsModeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CollectionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CombinedFormatUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CompletionInfoUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CoordinateUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/CursorAnchorInfoUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DebugLogUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DialogUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DictionaryInfoUtils$DictionaryInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DictionaryInfoUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DistracterFilter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DistracterFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DistracterFilterCheckingExactMatchesAndSuggestions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/DistracterFilterCheckingIsInDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ExecutorUtils$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ExecutorUtils$ThreadFactoryWithId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ExecutorUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/FeedbackUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/FileTransforms.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/FileUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/FragmentUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ImportantNoticeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/InputTypeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/IntentUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/JniUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/JsonUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/LanguageModelParam.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/LeakGuardHandlerWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/LocaleUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/MetadataFileUriGetter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/PrevWordsInfoUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/RecapitalizeStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ResizableIntArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ResourceUtils$DeviceOverridePatternSyntaxError.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ResourceUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/RunInLocale.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ScriptUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SpacebarLanguageUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SpannableStringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/StatsUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/StringUtils$Stringizer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/StringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SubtypeLocaleUtils$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SubtypeLocaleUtils$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SubtypeLocaleUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SuggestionResults$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SuggestionResults$SuggestedWordInfoComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/SuggestionResults.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/TargetPackageInfoGetterTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/TextRange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/TypefaceUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/UncachedInputMethodManagerUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/ViewLayoutUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils$IllegalAttribute.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils$IllegalEndTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils$IllegalStartTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils$NonEmptyTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils$ParseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethod/latin/utils/XmlParseUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethodcommon/InputMethodSettingsActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethodcommon/InputMethodSettingsFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethodcommon/InputMethodSettingsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/classes/debug/com/android/inputmethodcommon/InputMethodSettingsInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/packageDebug/zip-cache/b4rcIasaJu77cQ4H6uyGth9g7ew=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/jniLibs/debug/armeabi-v7a/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/jniLibs/debug/armeabi-v7a/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/jniLibs/debug/armeabi/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/jniLibs/debug/armeabi/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/multi-dex/debug/componentClasses.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/multi-dex/debug/components.flags" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/multi-dex/debug/maindexlist.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/multi-dex/debug/manifest_keep.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libjni_latinime.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libuc.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latinime/build/outputs/apk/latinime-debug.apk" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_send_lxx_dark.png" afterPath="$PROJECT_DIR$/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_send_lxx_dark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_send_lxx_light.png" afterPath="$PROJECT_DIR$/latinime/build/intermediates/res/merged/debug/drawable-xhdpi/sym_keyboard_send_lxx_light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/latinime/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/latinime/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/latinime.iml" afterPath="$PROJECT_DIR$/latinime/latinime.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/latinime/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/latinime/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
     </list>
     <ignored path="aosp-latinime_m-preview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,29 +641,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KeyboardLayoutSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/KeyboardLayoutSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3240">
-              <caret line="269" column="52" selection-start-line="269" selection-start-column="52" selection-end-line="269" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SubtypeLocaleUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/latin/utils/SubtypeLocaleUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="51" column="99" selection-start-line="51" selection-start-column="99" selection-end-line="51" selection-end-column="99" />
-              <folding>
-                <element signature="e#1791#1815#0" expanded="true" />
-                <element signature="e#8923#8973#0" expanded="true" />
-                <element signature="e#9217#9426#0" expanded="true" />
-                <element signature="e#9425#9426#0" expanded="true" />
-                <element signature="e#11941#12747#0" expanded="true" />
-                <element signature="e#12746#12747#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,18 +654,88 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1527,7 +2176,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4429906231000" />
+        <entry key="$PROJECT_DIR$" value="4430837024000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1542,13 +2191,13 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.2/gradle-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.2/gradle-core-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.2/builder-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.2/lint-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.3/gradle-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.3/gradle-core-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.3/builder-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.3/lint-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.2.2/gradle-api-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.2.2/compilerCommon-2.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.2.3/gradle-api-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.2.3/compilerCommon-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
@@ -1557,18 +2206,18 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.2.2/builder-model-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.2.2/builder-test-api-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.2.2/sdklib-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.2.2/sdk-common-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.2.2/common-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.2.2/manifest-merger-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.2.2/ddmlib-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.2.3/builder-model-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.2.3/builder-test-api-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.2.3/sdklib-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.2.3/sdk-common-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.2.3/common-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.2.3/manifest-merger-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.2.3/ddmlib-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.11.0/jack-api-0.11.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.2.2/protos-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.2.2/shared-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.2.2/tracker-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.2.3/protos-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.2.3/shared-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.2.3/tracker-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
@@ -1576,22 +2225,22 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.2.2/lint-checks-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.2.3/lint-checks-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.2/annotations-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.3/annotations-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.2/layoutlib-api-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.2/dvlib-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.2/repository-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.3/layoutlib-api-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.3/dvlib-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.3/repository-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
@@ -1602,7 +2251,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.2.2/lint-api-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.2.3/lint-api-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
@@ -1615,7 +2264,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/145.597.3/uast-145.597.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/145.597.4/uast-145.597.4.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -1627,13 +2276,13 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.2/gradle-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.2/gradle-core-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.2/builder-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.2/lint-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.2.3/gradle-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.2.3/gradle-core-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.2.3/builder-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.2.3/lint-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.2.2/gradle-api-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.2.2/compilerCommon-2.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.2.3/gradle-api-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.2.3/compilerCommon-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
@@ -1642,18 +2291,18 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.2.2/builder-model-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.2.2/builder-test-api-2.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.2.2/sdklib-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.2.2/sdk-common-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.2.2/common-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.2.2/manifest-merger-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.2.2/ddmlib-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.2.3/builder-model-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.2.3/builder-test-api-2.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.2.3/sdklib-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.2.3/sdk-common-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.2.3/common-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.2.3/manifest-merger-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.2.3/ddmlib-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.11.0/jack-api-0.11.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.2.2/protos-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.2.2/shared-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.2.2/tracker-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.2.3/protos-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.2.3/shared-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.2.3/tracker-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
@@ -1661,22 +2310,22 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.2.2/lint-checks-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.2.3/lint-checks-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.2/annotations-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.2.3/annotations-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.2/layoutlib-api-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.2/dvlib-25.2.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.2/repository-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.2.3/layoutlib-api-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.2.3/dvlib-25.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.2.3/repository-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
@@ -1687,7 +2336,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.2.2/lint-api-25.2.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.2.3/lint-api-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
@@ -1700,7 +2349,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/145.597.3/uast-145.597.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/145.597.4/uast-145.597.4.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/latinime" />
@@ -1867,13 +2516,14 @@
         <option value="$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/internal/KeyboardRow.java" />
         <option value="$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/internal/KeyboardTextsSet.java" />
         <option value="$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/latin/LatinIME.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="982" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1933,20 +2583,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aosp-latinime_m-preview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aosp-latinime_m-preview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -1980,6 +2616,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1060" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RunManager" selected="Android App.latinime">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2289,10 +2926,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="982" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="985" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2310,7 +2947,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32681242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26144835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2376,51 +3013,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/captures/com.android.inputmethod.latin_2017.01.03_13.25.li">
-      <provider selected="true" editor-type-id="capture-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/MoreKeysKeyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/captures/com.android.inputmethod.latin_2017.01.03_13.49.li">
-      <provider selected="true" editor-type-id="capture-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/MoreKeysKeyboardView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/sources/android-23/android/graphics/Region.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="412" column="82" selection-start-line="412" selection-start-column="82" selection-end-line="412" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/MainKeyboardView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5505">
-          <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/sources/android-23/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="2302" column="30" selection-start-line="2302" selection-start-column="30" selection-end-line="2302" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/latinime/src/main/java/com/android/inputmethod/keyboard/KeyboardView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -2433,7 +3025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2525,16 +3116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2505">
           <caret line="195" column="25" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#8934#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6161#6162#0" expanded="false" />
-            <element signature="e#6198#6199#0" expanded="false" />
-            <element signature="e#6515#6516#0" expanded="false" />
-            <element signature="e#6549#6550#0" expanded="false" />
-            <element signature="e#7536#7537#0" expanded="false" />
-            <element signature="e#7573#7574#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2584,7 +3165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="30" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2592,7 +3172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="269" column="24" selection-start-line="269" selection-start-column="24" selection-end-line="269" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2631,7 +3210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2646,7 +3224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3750">
           <caret line="298" column="45" selection-start-line="298" selection-start-column="45" selection-end-line="298" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2654,10 +3231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3840">
           <caret line="299" column="30" selection-start-line="299" selection-start-column="30" selection-end-line="299" selection-end-column="30" />
-          <folding>
-            <element signature="e#2479#2480#0" expanded="true" />
-            <element signature="e#2526#2527#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2665,7 +3238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
           <caret line="96" column="20" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2673,7 +3245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2681,7 +3252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2689,7 +3259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="61" column="65" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2720,7 +3289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="1243" column="5" selection-start-line="1243" selection-start-column="5" selection-end-line="1243" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2728,7 +3296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3240">
           <caret line="269" column="52" selection-start-line="269" selection-start-column="52" selection-end-line="269" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2736,29 +3303,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="51" column="99" selection-start-line="51" selection-start-column="99" selection-end-line="51" selection-end-column="99" />
-          <folding>
-            <element signature="e#1791#1815#0" expanded="true" />
-            <element signature="e#8923#8973#0" expanded="true" />
-            <element signature="e#9217#9426#0" expanded="true" />
-            <element signature="e#9425#9426#0" expanded="true" />
-            <element signature="e#11941#12747#0" expanded="true" />
-            <element signature="e#12746#12747#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
         </state>
       </provider>
